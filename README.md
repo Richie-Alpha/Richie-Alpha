@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Richie-Alpha
 - 👀 I’m interested in Data Science,Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning Tensorflow
-- 💞️ I’m looking to collaborate on any python projects available and Machine Learning
+- 🌱 I’m currently learning web development 
+- 💞️ I’m looking to collaborate on any python projects available and web development 
 - 📫 How to reach me richastapop@gmail.com
 
 <!---
